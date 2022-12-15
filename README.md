@@ -1,11 +1,11 @@
 ### 👩‍🎓 About
 - Enrolling in Master of Data Analytics.
 - Working on predictive and prescriptive machine learning projects.
-- In the past, I enjoyed [capturing moments at people's weddings](https://www.wpja.com/wedding-photojournalism/wedding-photographers-houston-tx/emily-liang).
+- In the past, 
 
 
-### 🌟 Personal Projects
-- [**Python:** Trading with Ichimoku Cloud and Building an Efficient Stock Portfolio - Updated:5/5/2022](https://github.com/SamMLENG/Data-Portfolio/tree/main/Investing)
+### 🌟 Machine Learning Models 
+- [**BigQuery ML:** Predict Visitor Purchases with a Classification Model in BigQuery ML -](https://github.com/SamMLENG/Data-Portfolio/tree/main/Investing)
 - [**Excel + Python + Tableau:** Increase Funding For a Houston Non-Profit Using Data Insight](https://github.com/SamMLENG/Data-Portfolio/tree/main/CEAP)
 - [MySQL + Python + Tableau: Increase Enrollment For a Houston Non-Profit Using Data Insight](https://github.com/SamMLENG/Data-Portfolio/tree/main/FOC) 
 
@@ -23,7 +23,7 @@
 - [**R:** Exploring Regression Models and Data Transformation](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Regression)
 
 
-### 🔖 Resources
+### 🔖 Personal Projects
 - [Interview Cheatsheet for Entry Level Data Analyst Jobs](https://github.com/emily1618/Data-Portfolio/blob/main/CHEATSHEET/README.md)
 
 
