@@ -27,6 +27,6 @@
 - [Interview Cheatsheet for Entry Level Data Analyst Jobs](https://github.com/emily1618/Data-Portfolio/blob/main/CHEATSHEET/README.md)
 
 
-### 📫 Kaggle and Tableau
+### 📫 GCP Profile
 - [Kaggle Account](https://www.kaggle.com/emilyliang8/)
 - [My Tableau](https://public.tableau.com/app/profile/emily1618)
