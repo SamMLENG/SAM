@@ -1,6 +1,6 @@
 ### 👩‍🎓 About
-- Enrolling in Master of Data Analytics.
-- Working on predictive and prescriptive machine learning projects.
+- Certified GCP Data Engineer and ML Engineer.
+- Working on predictive and prescriptive machine learning Models.
 - In the past, 
 
 
