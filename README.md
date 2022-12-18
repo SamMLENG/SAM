@@ -1,7 +1,7 @@
 ### 👩‍🎓 About
 - Certified GCP Data Engineer and ML Engineer.
-- Working on predictive and prescriptive machine learning Models.
-- In the past, 
+- I am working on a reinforcement learning model that is able to capture and analyze chart patterns. The model will determine if a pattern is a setup A or setup B, and send an alert to take the trade accordingly.
+- 
 
 
 ### 🌟 Machine Learning Models 
