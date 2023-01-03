@@ -28,5 +28,5 @@
 
 
 ### 📫 GCP Profile
-- [Kaggle Account](https://www.kaggle.com/emilyliang8/)
-- [My Tableau](https://public.tableau.com/app/profile/emily1618)
+- [Data Engineer](https://www.cloudskillsboost.google/public_profiles/ef6c8ba5-007e-4fb2-8e81-6860f57ffddd)
+- [Machine Learning](https://www.cloudskillsboost.google/public_profiles/ef6c8ba5-007e-4fb2-8e81-6860f57ffddd)
